@@ -1,0 +1,15 @@
+{
+  "name": "ecomm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start:cart": "cd ./cart && npm run dev",
+    "start:products": "cd ./products && npm run dev",
+    "start:container": "cd ./container && npm run dev"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
